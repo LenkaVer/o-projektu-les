@@ -12,7 +12,7 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   background-color: white;
 }
-/* Lenka */
+/* Lenka a Zdena*/
 main {
   max-width: 80vw;
   max-height: 100vh;
@@ -46,7 +46,8 @@ main {
   color: white;
 }
 
-.foto-lenka {
+.foto-lenka,
+.foto-zdena {
   max-width: 150px;
   border-radius: 50%;
   float: left;
@@ -58,7 +59,8 @@ main {
   clear: left;
 }
 
-.watsu__foto {
+.watsu__foto,
+.kravmaga__foto {
   max-width: 250px;
   margin: 1rem;
   float: right;
